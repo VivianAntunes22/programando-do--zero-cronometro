@@ -103,8 +103,12 @@ img {
         width: 400px;
    
    }
-  
-   
+   img {
+    width: 400px;
+   }
+   .numero {
+    font-weight:500px ;
+   }
  }
     
 
