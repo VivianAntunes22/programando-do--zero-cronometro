@@ -99,14 +99,12 @@ img {
         opacity: 0.5;
     }
  @media screen and (max-width:840px) {
-    
-   .caixa-numeros {
-    font-size: 2px;
-    width: 320px; ;
+    img {
+        width: 400px;
+   
    }
-   img {
-    width: 400px;
-   }
+  
+   
  }
     
 
